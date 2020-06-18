@@ -1,0 +1,7 @@
+2. 
+a. create context
+b. create provider to wrap comps that need the data. 
+
+Provider is available on the vaiable initalized with createContext
+value takes in values that are needed by the comp that is wrapped by the provider. 
+
